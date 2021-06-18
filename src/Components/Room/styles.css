@@ -1,0 +1,51 @@
+#room-category{
+    height: 61px;
+    background-color: rgb(206, 206, 206);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.room{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+}
+.room h1{
+    font-size: 13px;
+    margin-left: 10px;
+    color: #ee553b;
+}
+.room .circle{
+    background-color: #ee553b;
+    height: 16px;
+    width: 23px;
+    border-radius: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+    color: white;
+    font-weight: 700;
+}
+
+.room-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    width: 75%;
+}
+#room-category img{
+    height: 15px;
+    margin-right: 80px;
+}
+.arrow-btn{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    height: 15px;
+} 

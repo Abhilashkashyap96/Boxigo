@@ -1,0 +1,23 @@
+#room-main{
+    width: 100%;
+    margin: 30px;
+}
+.room-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 230px;
+}
+.room-top h1{
+    font-size: 15px;
+}
+.room-btn{
+    outline: none;
+    background-color: black;
+    font-size: 13px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    height: 20px;
+}

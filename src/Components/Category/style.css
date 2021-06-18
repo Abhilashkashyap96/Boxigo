@@ -1,0 +1,26 @@
+.things{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 200px;
+    height: 20vh;
+}
+.things h1{
+    font-size: 20px;
+}
+.things h3{
+    font-size: 13px;
+    margin: 0;
+    left: 0;
+}
+.qty{
+    display: flex;
+    justify-content: space-between;
+}
+.qty p{
+    font-size: 13px;
+}
+.items{
+    width: 100%;
+}

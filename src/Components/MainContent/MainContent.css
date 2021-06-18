@@ -1,0 +1,12 @@
+.main-content{
+    /* border: 2px solid red; */
+    margin-left: 260px;
+    height: auto;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    width: 95%;
+}
